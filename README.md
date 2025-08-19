@@ -77,6 +77,7 @@ _Visualizing the hierarchy of clusters._
 To run this analysis locally, clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/Elsie-Muhumuza/customer_segmentation_analysis.git](https://github.com/Elsie-Muhumuza/customer_segmentation_analysis.git)
-cd customer-segmentation-analysis
+git clone https://github.com/Elsie-Muhumuza/customer_segmentation_analysis.git
+cd Customer-Segmentation-Analysis
 pip install -r requirements.txt
+
