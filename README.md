@@ -58,16 +58,16 @@ These insights enable a **precision-guided approach** to marketing, ensuring res
 
 Here are some key visualizations from the customer segmentation analysis:
 
-![Elbow Method Plot](images/elbow_method_recreated.png)
+![Elbow Method Plot](images/the_elbow_method_for_optimal_K.png)
 _Determining the optimal number of clusters for K-Means._
 
-![Silhouette Score Plot](images/silhouette_scores.png)
+![Silhouette Score Plot](images/silhouette_scores_for_various_numbers_of_clusters.png)
 _Validating cluster quality with silhouette scores._
 
-![K-Means Cluster Characteristics](images/kmeans_cluster_characteristics.png)
+![K-Means Cluster Characteristics](images/K-Means_ckuster_characteristics.png)
 _Average feature values for each K-Means cluster._
 
-![Hierarchical Dendrogram](images/hierarchical_dendrogram.png)
+![Hierarchical Dendrogram](images/hierarchical_clustering_dendogram.png)
 _Visualizing the hierarchy of clusters._
 
 ---
