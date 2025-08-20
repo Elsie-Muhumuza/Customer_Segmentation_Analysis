@@ -70,7 +70,7 @@ _Average feature values for each K-Means cluster._
 ![Hierarchical Dendrogram](images/hierarchical_clustering_dendogram.png)
 _Visualizing the hierarchy of clusters._
 
-[🔗View full notebook](Customer_Segementation_Analysis.ipynb)
+[🔗View full notebook](https://github.com/Elsie-Muhumuza/customer_segmentation_analysis.git)
 
 ---
 
@@ -79,7 +79,7 @@ _Visualizing the hierarchy of clusters._
 To run this analysis locally, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/Elsie-Muhumuza/Customer_Segmentation_Analysis.git
-cd Customer-Segmentation-Analysis
+git clone https://github.com/Elsie-Muhumuza/customer_segmentation_analysis.git
+cd customer-segmentation-analysis
 pip install -r requirements.txt
 
