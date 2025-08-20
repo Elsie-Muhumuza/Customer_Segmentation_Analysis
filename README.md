@@ -70,7 +70,7 @@ _Average feature values for each K-Means cluster._
 ![Hierarchical Dendrogram](images/hierarchical_clustering_dendogram.png)
 _Visualizing the hierarchy of clusters._
 
-[🔗View full notebook](https://github.com/Elsie-Muhumuza/customer_segmentation_analysis.git)
+[🔗View full notebook](customer_segementation_analysis.ipynb)
 
 ---
 
